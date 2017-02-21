@@ -1,4 +1,4 @@
 # hello-world
 Hello world code
 
-This hello world code for GitHub.
+This is hello world code for GitHub.
